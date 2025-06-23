@@ -57,7 +57,7 @@ Spend ~8+ hours each day.
 
 ---
 
-## 🗓️ Day 5: Projects + Data Visualization
+## 🗓️ Day 5 - 7: Projects + Data Visualization
 
 | Topic | Resources |
 |-------|-----------|
@@ -68,6 +68,21 @@ Spend ~8+ hours each day.
 | Mini Project: Leaderboard | [28_Day_Mini_project_leaderboard](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/28_Day_Mini_project_leaderboard/28_day_mini_project_leaderboard.md) |
 | Mini Project: Animating Characters | [29_Day_Mini_project_animating_characters](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/29_Day_Mini_project_animating_characters/29_day_mini_project_animating_characters.md) |
 | Final Touches | [30_Day_Mini_project_final](https://github.com/Asabeneh/30-Days-Of-JavaScript/blob/master/30_Day_Mini_project_final/30_day_mini_project_final.md) |
+
+---
+
+### 🧩 Day 8
+
+| Topic | Resources |
+|-------|-----------|
+| TypeScript Introduction | [TypeScript Docs](https://www.typescriptlang.org/docs/handbook/intro.html) |
+| Basic Types | [TypeScript: Basic Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) |
+| Interfaces vs Types | [TS Handbook: Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html) |
+| Classes & Inheritance in TS | [TS Classes](https://www.typescriptlang.org/docs/handbook/2/classes.html) |
+| Type Inference & Narrowing | [TS Narrowing](https://www.typescriptlang.org/docs/handbook/2/narrowing.html) |
+| TypeScript Playground | [Playground](https://www.typescriptlang.org/play) |
+| Migrating JS to TS | [Migration Guide](https://www.typescriptlang.org/docs/handbook/migrating-from-javascript.html) |
+| `tsconfig.json` Explained | [TSConfig Reference](https://www.typescriptlang.org/tsconfig) |
 
 ---
 
